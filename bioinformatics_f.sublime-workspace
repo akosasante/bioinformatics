@@ -1,0 +1,502 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"DNA",
+				"DNAdict"
+			],
+			[
+				"Genome",
+				"Genome"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"fetch",
+				"fetchEntries"
+			],
+			[
+				"coor",
+				"coord_b"
+			],
+			[
+				"coo",
+				"coord_a"
+			],
+			[
+				"ma",
+				"magnitude"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"_",
+				"_password"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"iln",
+				"inline-flex"
+			],
+			[
+				"il",
+				"inline-flex"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"alig",
+				"align-content"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"user",
+				"u_answer_arr"
+			],
+			[
+				"curr_",
+				"curr_answer_arr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 490.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/tripl_000/Documents/GitHub/bioinformatics/rosalind functions.py",
+		"/C/Users/tripl_000/Documents/GitHub/bioinformatics/bioinformatics.py",
+		"/C/Users/tripl_000/Documents/GitHub/Blog/akosasante.github.io/blog.html",
+		"/C/Users/tripl_000/Documents/GitHub/bioinformatics/ecoli.txt",
+		"/C/Users/tripl_000/Documents/GitHub/bioinformatics/E_coli.txt",
+		"/C/Users/tripl_000/Desktop/Interactives . Dynamic Earth . Plates & Boundaries_files/swfobject.js",
+		"/C/Users/tripl_000/Documents/GitHub/Blog/akosasante.github.io/css/app.css",
+		"/C/Users/tripl_000/Documents/GitHub/Blog/akosasante.github.io/portfolio.html",
+		"/C/Users/tripl_000/Documents/GitHub/Blog/akosasante.github.io/css/foundation.css",
+		"/C/Users/tripl_000/Documents/GitHub/Blog/akosasante.github.io/css/foundation.min.css",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/Bootstrap/bootstrap-3.3.6-dist/New folder/projects-main.html",
+		"/C/Users/tripl_000/Documents/GitHub/Billboard Jupyter/making radio buttons",
+		"/C/Users/tripl_000/Documents/GitHub/CodeInGame-Progs/marslander2.py",
+		"/C/Users/tripl_000/Downloads/my_website.sql",
+		"/C/Users/tripl_000/Downloads/wpmm_usermeta.sql",
+		"/C/Users/tripl_000/AppData/Local/Temp/scp48138/public_ftp/incoming/my_website.sql",
+		"/C/Users/tripl_000/Downloads/wpmm_users.sql",
+		"/C/Users/tripl_000/Desktop/wp-settings.php",
+		"/C/Users/tripl_000/Desktop/wp-config.php",
+		"/C/Users/tripl_000/Documents/GitHub/CodeInGame-Progs/mars lander level 1.py",
+		"/C/Python27/Lib/site-packages/billboard.py-1.1.0-py2.7.egg",
+		"/C/Users/tripl_000/Documents/GitHub/Billboard/billboard-charts-master/billboard.py",
+		"/C/Users/tripl_000/Documents/GitHub/Billboard/billboard-charts-master/build/lib/billboard.py",
+		"/C/Users/tripl_000/Documents/GitHub/Billboard/billboard-charts-master/build/lib/original.py",
+		"/C/Users/tripl_000/Documents/GitHub/wl.py",
+		"/C/Users/tripl_000/Documents/GitHub/list1.txt",
+		"/C/Users/tripl_000/Documents/GitHub/wl.html",
+		"/C/Users/tripl_000/Documents/GitHub/wl",
+		"/C/Users/tripl_000/Documents/GitHub/script",
+		"/C/Users/tripl_000/Downloads/client_id.json",
+		"/C/Users/tripl_000/Desktop/README",
+		"/C/Users/tripl_000/Documents/VectorsAssignment-Python/kwasis ass in python.py",
+		"/C/Users/tripl_000/Documents/GitHub/Babyapp/app/models/rate.rb",
+		"/C/Users/tripl_000/Documents/GitHub/babyapp/app/views/welcome/index.html.erb",
+		"/C/Users/tripl_000/Documents/GitHub/Babyapp/app/assets/javascripts/application.js",
+		"/C/Users/tripl_000/Documents/GitHub/Babyapp/app/models/user.rb",
+		"/C/Users/tripl_000/Documents/GitHub/Babyapp/config/environments/development.rb",
+		"/C/Users/tripl_000/Documents/GitHub/babyapp/Gemfile",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/Bootstrap/bootstrap-3.3.6-dist/phpmyadmin/config.inc.php",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/Bootstrap/bootstrap-3.3.6-dist/wp-admin/includes/nav-menu.php",
+		"/C/Apache24/conf/httpd.conf",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/Bootstrap/bootstrap-3.3.6-dist/.gitignore",
+		"/C/Users/tripl_000/Desktop/table_test.rb",
+		"/C/Users/tripl_000/Documents/GitHub/Babyapp/app/controllers/vote_controller.rb",
+		"/C/Users/tripl_000/Documents/GitHub/Babyapp/app/controllers/application_controller.rb",
+		"/C/Users/tripl_000/Documents/GitHub/babyapp/config/database.yml",
+		"/C/Users/tripl_000/Documents/GitHub/Babyapp/config/application.rb",
+		"/C/Users/tripl_000/Documents/GitHub/Babyapp/app/views/babies/show.html.erb",
+		"/C/Users/tripl_000/Documents/GitHub/Babyapp/app/views/babies/index.json.jbuilder",
+		"/C/Users/tripl_000/Documents/GitHub/Babyapp/app/views/babies/index.html.erb",
+		"/C/Users/tripl_000/Documents/GitHub/Babyapp/README.rdoc",
+		"/C/Users/tripl_000/Documents/GitHub/babyapp/config/routes.rb",
+		"/C/Users/tripl_000/Documents/GitHub/Babyapp/app/controllers/welcome_controller.rb",
+		"/C/Users/tripl_000/Documents/GitHub/babyapp/app/views/babies/index.html.erb",
+		"/C/Users/tripl_000/Documents/GitHub/FlaskApp/templates/signup.html",
+		"/C/Users/tripl_000/Documents/GitHub/FlaskApp/templates/index.html",
+		"/C/Users/tripl_000/Documents/GitHub/Offline-Protobowl-Reader/question generator.py",
+		"/C/Users/tripl_000/Documents/GitHub/FlaskApp/app.py",
+		"/C/Users/tripl_000/Documents/GitHub/Offline-Protobowl-Reader/enaml gui.py",
+		"/C/Users/tripl_000/Documents/GitHub/FlaskApp/static/signup.css",
+		"/C/Users/tripl_000/Documents/GitHub/FlaskApp/templates/signup.css",
+		"/C/Users/tripl_000/Documents/GitHub/FlaskApp/index.html",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/Bootstrap/bootstrap-3.3.6-dist/css/bootstrap.css",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/Bootstrap/bootstrap-3.3.6-dist/css/variables.less",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/Bootstrap/bootstrap-3.3.6-dist/web-home.html",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/Bootstrap/bootstrap-3.3.6-dist/css/mycss.css",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/Bootstrap/bootstrap-3.3.6-dist/css/bootswatch.less",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/Bootstrap/bootstrap-3.3.6-dist/projects-main.html",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/Bootstrap/bootstrap-3.3.6-dist/about-main.html",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/Bootstrap/bootstrap-3.3.6-dist/thoughts-main.html",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/Bootstrap/bootstrap-3.3.6-dist/trivia-main.html",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/Bootstrap/bootstrap-3.3.6-dist/blog-main.html",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/Bootstrap/bootstrap-3.3.6-dist/tv-main.html",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/Bootstrap/bootstrap-3.3.6-dist/css/bootstrap.min.css.map",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/Bootstrap/bootstrap-3.3.6-dist/css/bootstrap.min.css",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/Bootstrap/bootstrap-3.3.6-dist/css/bootstrap-theme.css",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/Bootstrap/bootstrap-3.3.6-dist/blog-home.html",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/Foundation/foundation-6/blog-home.html",
+		"/C/Users/tripl_000/Downloads/blog.htm",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/FoundationPress/README.md",
+		"/C/Users/tripl_000/Documents/GitHub/Odin-Projects/GoogleClone.html",
+		"/C/Users/tripl_000/Documents/GitHub/Odin-Projects/main.css",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/BoilerPlate/css/main.css",
+		"/C/Users/tripl_000/Documents/GitHub/Odin-Projects/GoogleClone",
+		"/C/Users/tripl_000/Documents/GitHub/Offline-Protobowl-Reader/ruby offline reader.rb",
+		"/C/Users/tripl_000/Documents/GitHub/CodeInGame-Progs/consecutive integer checker.js",
+		"/C/Users/tripl_000/Documents/GitHub/Blog Website/reverie-master/scss/style.scss",
+		"/C/Users/tripl_000/Documents/GitHub/Offline-Protobowl-Reader/testing gui.py",
+		"/C/Users/tripl_000/Games/RA2/emulator.retroarch/bin/retroarch-joyconfig",
+		"/C/Users/tripl_000/Downloads/blog.html"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"C:\\Users\\tripl_000\\Documents\\GitHub\\Blog Website\\Bootstrap\\bootstrap-3.3.6-dist"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"href",
+			"@",
+			"social",
+			"hr",
+			"large-offse",
+			"offset",
+			"background",
+			"kwasi",
+			"admin",
+			"exists",
+			"asante",
+			"kwasi",
+			"akosua",
+			"akosuaasante",
+			"update_",
+			"email",
+			"my_website",
+			"wp_",
+			"root",
+			"admin",
+			"yearch",
+			"yearchar",
+			"entries",
+			"content",
+			"self.date",
+			"playlist_id",
+			"replace",
+			"playlist.list",
+			"playlist",
+			"norm_str",
+			"magni",
+			"length",
+			"_magnitude",
+			"magnitude",
+			"length",
+			":",
+			"baseuri",
+			"wp_nav_menu",
+			"primary menu",
+			"primary",
+			"menu",
+			"phys",
+			"chem",
+			"math",
+			"127.0.",
+			"localhost",
+			"listen",
+			"localhost",
+			"show",
+			"list-style",
+			"web-home",
+			"side",
+			"2780e3",
+			"hover",
+			"red",
+			"hover",
+			"red",
+			"navbar-default-bg",
+			"nav",
+			"variable",
+			"gray-darker",
+			"lighten",
+			"@gray-dark",
+			"@brand-prima",
+			"nav",
+			"navbar",
+			"li:",
+			"li:h",
+			"li:",
+			"li > a",
+			"btn",
+			"li >",
+			"li ",
+			"li {",
+			"a:hover",
+			"text-decor",
+			"hover",
+			"navbar",
+			"btn",
+			"link",
+			"btn-link",
+			"li > a",
+			"navbar-nav",
+			"navbar",
+			"hover",
+			"        \n",
+			"navbar",
+			"img",
+			"container"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"wpmm_",
+			"norm_vec"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 30.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 27.0
+	},
+	"pinned_build_system": "",
+	"project": "bioinformatics_f.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 359.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

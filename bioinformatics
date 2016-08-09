@@ -1,0 +1,65 @@
+def PatternCount(Pattern, Text):
+    count = 0
+    for i in range(len(Text)-len(Pattern)+1):
+        if Text[i:i+len(Pattern)] == Pattern:
+            count = count+1
+    return count 
+
+def CountDict(Text, k):
+    Count = {}
+    for i in range(len(Text)-k+1):
+        Pattern = Text[i:i+k]
+        Count[i] = PatternCount(Pattern, Text)
+    return Count
+
+
+def FrequentWords(Text, k):
+    FrequentPatterns = []
+    Count = CountDict(Text, k)
+    m = max(Count.values())
+    for i in Count:
+        if Count[i] == m:
+            FrequentPatterns.append(Text[i:i+k])
+    FrequentPatternsNoDuplicates = remove_duplicates(FrequentPatterns)
+    return FrequentPatternsNoDuplicates 
+
+def remove_duplicates(x_list):
+    new_list = []
+    for x in x_list:
+        if x not in new_list:
+            new_list.append(x)
+    return new_list
+
+def reverse(text):
+    new_text = ""
+    for letter in text:
+        new_text = letter + new_text
+    return new_text
+
+def complement(Nucleotide):
+    comp = '' # output variable
+    # your code here
+    compDict = {"A": "T", "T": "A", "G": "C", "C": "G"}
+    comp += compDict[Nucleotide] 
+    return comp
+
+def ReverseComplement(Pattern):
+    revComp = '' # output variable
+    # your code here
+    revPattern = reverse(Pattern)
+    for base in revPattern:
+        compBase = complement(base)
+        revComp += compBase
+    return revComp
+
+def PatternMatching(Pattern, Genome):
+    positions = [] # output variable
+    # your code here
+    for i in range(len(Genome)-len(Pattern)+1):
+        if Genome[i:i+len(Pattern)] == Pattern:
+            positions.append(i)
+    return positions
+
+oriC_vibrio = "ATCAATGATCAACGTAAGCTTCTAAGCATGATCAAGGTGCTCACACAGTTTATCCACAACCTGAGTGGATGACATCAAGATAGGTCGTTGTATCTCCTTCCTCTCGTACTCTCATGACCACGGAAAGATGATCAAGAGAGGATGATTTCTTGGCCATATCGCAATGAATACTTGTGACTTGTGCTTCCAATTGACATCTTCAGCGCCATATTGCGCTGGCCAAGGTGACGGAGCGGGATTACGAAAGCATGATCATGGCTGTTGTTCTGTTTATCTTGTTTTGACTGAGACTTGTTAGGATAGACGGTTTTTCATCACTGACTAGCCAAAGCCTTACTCTGCCTGACATCGACCGTAAATTGATAATGAATTTACATGCTTCCGCGACGATTTACCTCTTGATCATCGATCCGATTGAAGATCTTCAATTGTTAATTCTCTTGCCTCGACTCATAGCCATGATGAGCTCTTGATCATGTTTCCTTAACCCTCTATTTTTTACGGAAGAATGATCAAGCTGCTGCTCTTGATCATCGTTTC"
+
+oriC_thermo = "AACTCTATACCTCCTTTTTGTCGAATTTGTGTGATTTATAGAGAAAATCTTATTAACTGAAACTAAAATGGTAGGTTTGGTGGTAGGTTTTGTGTACATTTTGTAGTATCTGATTTTTAATTACATACCGTATATTGTATTAAATTGACGAACAATTGCATGGAATTGAATATATGCAAAACAAACCTACCACCAAACTCTGTATTGACCATTTTAGGACAACTTCAGGGTGGTAGGTTTCTGAAGCTCTCATCAATAGACTATTTTAGTCTTTACAAACAATATTACCGTTCAGATTCAAGATTCTACAACGCTGTTTTAATGGGCGTTGCAGAAAACTTACCACCTAAAATCCAGTATCCAAGCCGATTTCAGAGAAACCTACCACTTACCTACCACTTACCTACCACCCGGGTGGTAAGTTGCAGACATTATTAAAAACCTCATCAGAAGCTTGTTCAAAAATTTCAATACTCGAAACCTACCACCTGCGTCCCCTATTATTTACTACTACTAATAATAGCAGTATAATTGATCTGA"
